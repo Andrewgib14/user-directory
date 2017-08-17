@@ -26,6 +26,26 @@ a {
     font-size: 25px;
 }
 
+.name {
+    font-size: 40px;
+}
+
 .hire {
     color: red;
+}
+
+.avatar {
+    border: 1px solid lightgrey;
+    border-radius: 50%;
+    height: 175px;
+}
+
+.avatar-container {
+    margin-right: 50px;
+}
+
+.profileContainer {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
 }
